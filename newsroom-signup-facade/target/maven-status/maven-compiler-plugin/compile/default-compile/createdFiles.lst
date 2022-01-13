@@ -1,0 +1,13 @@
+com\newsroom\signup\facade\model\Error$ErrorBuilder.class
+com\newsroom\signup\facade\model\Response$ResponseBuilder.class
+com\newsroom\signup\facade\model\Request$RequestBuilder.class
+com\newsroom\signup\facade\model\Data$DataBuilder.class
+com\newsroom\signup\facade\model\Error.class
+com\newsroom\signup\facade\exception\SignUpExceptions.class
+com\newsroom\signup\facade\controller\SignupController.class
+com\newsroom\signup\facade\model\Response.class
+com\newsroom\signup\facade\model\Data.class
+com\newsroom\signup\facade\enums\ErrorCode.class
+com\newsroom\signup\facade\model\Request.class
+com\newsroom\signup\facade\NewsroomSignupFacadeApplication.class
+com\newsroom\signup\facade\controller\advice\SignupControllerAdvice.class
